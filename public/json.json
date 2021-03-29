@@ -1,0 +1,279 @@
+{
+   "appianTaskId": 537003723,
+   "caseId": 324560,
+   "workType": "RKD_Distribution_Automation",
+   "status": "Assigned",
+   "imageURL": "https://awdafs10tst.dstcorp.net/devapp/ImageRetrieval/AWDServer/service/services/v1_1/instances/2021-02-02-14.19.49.335200O01/attachment?pages=ALL&accept=image/tiff",
+   "systemId": "AWD",
+   "awdCaseId": "2021-02-02-14.19.47.586200C01",
+   "awdSourceId": "2021-02-02-14.19.49.335200O01",
+   "awdBusinessArea": "IND",
+   "awdCreateDateAndTime": "2/2/2021 12:22 PM PST",
+   "awdQueue": "APPIAN",
+   "awdWorkType": "Financial",
+   "awdStatus": null,
+   "genesysInteractionId": "",
+   "assignee": "CONBLNC",
+   "taskSubject": "RPO Task",
+   "isAppianForm": false,
+   "suspendData": {
+      "isSuspended": false,
+      "suspendReasons": [
+         {
+            "value": "PENDCOMPLT",
+            "valueDescription": "Pending Completion"
+         },
+         {
+            "value": "REFERRAL",
+            "valueDescription": "Referral"
+         },
+         {
+            "value": "2DAYTRANS",
+            "valueDescription": "2 Day Transaction"
+         }
+      ]
+   },
+   "indexData": {
+      "ssn": [
+         ""
+      ],
+      "planId": [
+         "BRK100014"
+      ],
+      "accountNumber": [
+         ""
+      ],
+      "alphaCode": [
+         ""
+      ]
+   },
+   "distributionForm": {
+      "formFields": [
+         {
+            "fieldName": "plan_name",
+            "fieldLabel": "Plan Name",
+            "fieldValue": "Iowa School of Beauty 401K",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "plan_id_number",
+            "fieldLabel": "Plan ID Number",
+            "fieldValue": "IRK31213",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "participant_first_name",
+            "fieldLabel": "Participant First Name",
+            "fieldValue": "Christiana",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "participant_middle_initial",
+            "fieldLabel": "Participant Middle Name",
+            "fieldValue": "H",
+            "shredImageId": 146669,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "participant_last_name",
+            "fieldLabel": "Participant Last Name",
+            "fieldValue": "Donnie",
+            "shredImageId": null,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "ssn_last4",
+            "fieldLabel": "SSN Last Four Digits",
+            "fieldValue": "2862",
+            "shredImageId": null,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "effective_date",
+            "fieldLabel": "Effective Date",
+            "fieldValue": "08/28/2020",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "cash_entire_account_balance",
+            "fieldLabel": "Cash Entire Account Balance",
+            "fieldValue": "Marked",
+            "shredImageId": 146656,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "cash_partial_gross_amount",
+            "fieldLabel": "Cash Partial Gross Amount",
+            "fieldValue": "--blank--",
+            "shredImageId": null,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "rollover_entire_balance",
+            "fieldLabel": "Rollover Entire Balance",
+            "fieldValue": "--blank--",
+            "shredImageId": 146656,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "rollover_all_roth_assets",
+            "fieldLabel": "Rollover All Roth Assets",
+            "fieldValue": "--blank--",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "rollover_all_pretax_assets",
+            "fieldLabel": "Rollover All Pre-tax Assets",
+            "fieldValue": "--blank--",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "do_not_withhold_state_tax",
+            "fieldLabel": "Do Not Withhold State Tax",
+            "fieldValue": "Marked",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "withhold_state_tax_amount",
+            "fieldLabel": "Withhold State Tax Amount",
+            "fieldValue": "--blank--",
+            "shredImageId": 146669,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "100_percent_vested",
+            "fieldLabel": "100% Vested",
+            "fieldValue": "--blank--",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "match_vested_percent",
+            "fieldLabel": "Match Vested Percent",
+            "fieldValue": "50",
+            "shredImageId": 146669,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "profit_sharing_vested_percent",
+            "fieldLabel": "Profit Sharing Vested Percent",
+            "fieldValue": "50",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "other_vested_contribution_type",
+            "fieldLabel": "Other Vested Contribution Type",
+            "fieldValue": "all other",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "other_vested_percent",
+            "fieldLabel": "Other Vested Percent",
+            "fieldValue": "50",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "plan_trustee_name",
+            "fieldLabel": "Plan Trustee Name",
+            "fieldValue": "Mark Oswald",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "plan_trustee_signature",
+            "fieldLabel": "Plan Trustee Signature",
+            "fieldValue": "--signed--",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "mail_check_to_participant",
+            "fieldLabel": "Mail Check to Participant",
+            "fieldValue": "Marked",
+            "shredImageId": null,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "mail_check_to_plan_sponsor",
+            "fieldLabel": "Mail Check to Plan Sponsor",
+            "fieldValue": "Marked",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "mail_check_to_tpa",
+            "fieldLabel": "Mail Check to TPA",
+            "fieldValue": "--blank--",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         },
+         {
+            "fieldName": "cash_pretax_federal_rate",
+            "fieldLabel": "Cash Pre-tax Federal Rate",
+            "fieldValue": "20",
+            "shredImageId": 135412,
+            "isValidated": false,
+            "validationMessage": "",
+            "pageNumber": null
+         }
+      ]
+   }
+}
